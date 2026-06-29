@@ -1,0 +1,20 @@
+# Python bytecode caches anywhere
+__pycache__/
+
+# PyTorch checkpoint/model files anywhere
+*.pt
+
+# TinyStories dataset files (large; pasted in locally) but keep the slide deck
+TinyStories*
+!TinyStories_Reproduction.pptx
+
+# Tooling / local config
+.codex
+condaenv.*
+.env
+.vscode/
+
+# macOS / editor / Office junk
+.DS_Store
+**/.DS_Store
+~$*

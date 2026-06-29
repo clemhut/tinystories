@@ -9,13 +9,12 @@ class PackageImportTests(unittest.TestCase):
         self.assertTrue(entrypoint.exists(), "src/tests/__main__.py is missing")
 
         tree = ast.parse(entrypoint.read_text())
-        imported_main = False
+        defines_main = any(
+            isinstance(node, ast.FunctionDef) and node.name == "main"
+            for node in ast.walk(tree)
+        )
 
-        for node in ast.walk(tree):
-            if isinstance(node, ast.ImportFrom) and node.module == "src.tests.tests":
-                imported_main = any(alias.name == "main" for alias in node.names)
-
-        self.assertTrue(imported_main, "src/tests/__main__.py should import main from src.tests.tests")
+        self.assertTrue(defines_main, "src/tests/__main__.py should define a main() entrypoint")
 
     def test_intra_package_imports_are_src_qualified(self) -> None:
         project_files = [
@@ -26,9 +25,6 @@ class PackageImportTests(unittest.TestCase):
             "src/transformer/utils/decoder_block.py",
             "src/transformer/transformer.py",
             "src/data/tinystories_dataset.py",
-            "src/eval/eval.py",
-            "src/train/train_tinystories.py",
-            "src/tests/tests.py",
         ]
 
         forbidden_prefixes = (
