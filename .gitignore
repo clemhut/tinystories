@@ -1,8 +1,9 @@
 # Python bytecode caches anywhere
 __pycache__/
 
-# PyTorch checkpoint/model files anywhere
+# PyTorch checkpoint/model files anywhere, except the LFS-tracked release checkpoints
 *.pt
+!artifacts/dpnlp_pipeline/checkpoints/*.pt
 
 # TinyStories dataset files (large; pasted in locally) but keep the slide deck
 TinyStories*
