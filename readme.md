@@ -1,5 +1,7 @@
 # DPNLP Project: Reproducing test results from the TinyStories Paper
 
+Created by Alexander Grabner, Clemens Huetter and Brandon Nader
+
 # Repo Description
 ## Creating the conda env
 ```bash
