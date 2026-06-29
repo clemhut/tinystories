@@ -1,0 +1,2 @@
+Paste the TinyStories-train.txt and TinyStories-val.txt files in this directory.
+They are available under https://huggingface.co/datasets/roneneldan/TinyStories/tree/main

@@ -1,0 +1,452 @@
+[
+  {
+    "completion": "Once upon a time, there was a little girl named Lucy. She was very adventurous. One day, she found a big, shiny box in her room. She was so excited to open it!\nLucy opened the box and found a beautiful necklace inside. She was so happy and excited. She put the necklace around her neck and ran around the room.\nBut then, she heard a loud noise. It was a big",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "Once upon a time, there was a little girl named Lucy. She was very adventurous. One day, she found",
+    "train_overlap": 1.0,
+    "valid_overlap": 0.9971590909090909
+  },
+  {
+    "completion": "Tom and Jane were friends. One day, Tom made soup for Jane, but when she tasted it, the soup was gone. Jane was sad and said, \"Oh no, this soup is gone!\"\nTom was very sad and said, \"I'm sorry, Jane. I didn't mean to make you sad.\"\nJane said, \"It's okay, Tom. We can make another one. But you have to be careful",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "Tom and Jane were friends. One day, Tom made soup for Jane, but when she tasted it, the soup was",
+    "train_overlap": 1.0,
+    "valid_overlap": 1.0
+  },
+  {
+    "completion": "Lily wanted either a cat or a dog. Her mother said she could not have a dog, so instead Lily asked for a dog. Lily was sad and said no. She said she did not have enough money.\nLily's mother was very kind and gave her a big hug. She said she would give her a name and a dog. Lily was very happy. She hugged her mother and said thank you.\nBut then she",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "Lily wanted either a cat or a dog. Her mother said she could not have a dog, so instead Lily asked for",
+    "train_overlap": 1.0,
+    "valid_overlap": 0.9912790697674418
+  },
+  {
+    "completion": "There was a pumpkin that could speak, but it was sad because it could not move. Every day it would say something, but it would not come back.\nOne day, a little girl named Lily came to visit the pumpkin. She saw the pumpkin and wanted to help. She asked her mom if she could help. Her mom said yes, and they went to the pumpkin garden.\nLily was so happy to help.",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "There was a pumpkin that could speak, but it was sad because it could not move. Every day it would say",
+    "train_overlap": 1.0,
+    "valid_overlap": 0.9943820224719101
+  },
+  {
+    "completion": "Katie was walking her black cat in the park when a mean man tried to take it. Katie said, \"This cat belongs to me!\"\nThe man replied, \"No, Katie. I'm going to take it home.\"\nKatie was sad, but she knew she had to do something. She said, \"I'll take it home.\"\nThe man smiled and said, \"Let's go home now.\"\nKatie was",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "Katie was walking her black cat in the park when a mean man tried to take it. Katie said, \"This cat belongs",
+    "train_overlap": 1.0,
+    "valid_overlap": 0.9869706840390879
+  },
+  {
+    "completion": "Alice was tired when she got back home, so she went to the park. She saw a big tree with lots of leaves. She wanted to climb it, but it was too high.\nAlice asked her mom, \"Mom, can I climb the tree?\"\nHer mom said, \"Yes, but be careful. It's too high.\"\nAlice was so excited.",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "Alice was tired when she got back home, so she went",
+    "train_overlap": 1.0,
+    "valid_overlap": 0.996268656716418
+  },
+  {
+    "completion": "Jack was hungry, so he went looking for something to eat. He saw a big, juicy apple on the ground. He picked it up and took it home.\nJack was so excited to eat the apple. He took it home and put it in his room. He was so happy to have it!\nJack took the apple home and put it in his",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "Jack was hungry, so he went looking for",
+    "train_overlap": 1.0,
+    "valid_overlap": 1.0
+  },
+  {
+    "completion": "Sam found a shiny rock in the river and wanted to show it to his friend, but first he had to go home. He was sad and asked his friend to come with him. His friend said yes and they went to the river.\nWhen they got to the river, Sam saw a big fish. He wanted to catch it, but his friend said no. Sam was sad and he started to cry. He wanted to",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "Sam found a shiny rock in the river and wanted to show it to his friend, but first he had to",
+    "train_overlap": 1.0,
+    "valid_overlap": 1.0
+  },
+  {
+    "completion": "A little boy named Ben had a red kite. One windy day, the kite got stuck in a tree. Ben was sad because he couldn't get the kite. He asked his mom for help.\nHis mom said, \"Don't worry, Ben. We can get the kite back.\"\nBen was happy to help. He ran to the tree and grabbed the kite. He was so",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "A little boy named Ben had a red kite. One windy day, the kite got stuck",
+    "train_overlap": 1.0,
+    "valid_overlap": 1.0
+  },
+  {
+    "completion": "Nina was scared of the dark, but one night she saw a light under her bed. She looked closer and found a big, bright light in the night sky. She was so excited that she ran to her bedroom and opened the door.\nInside, she saw a big, bright light. She was so happy that she ran to the light and looked up at the light. She saw a big, bright light coming from the light",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "Nina was scared of the dark, but one night she saw a light under her bed. She looked closer and found",
+    "train_overlap": 1.0,
+    "valid_overlap": 1.0
+  },
+  {
+    "completion": "Mia wanted to bake a cake for her mom, but she did not have enough sugar. So Mia decided to make a cake with her mom. She mixed flour, sugar, eggs, and butter. She mixed the flour, sugar, and eggs in a big bowl. She mixed the flour, sugar, and eggs in a big bowl. Then she put the cake in the oven.\nMia's mom came into the kitchen",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "Mia wanted to bake a cake for her mom, but she did not have enough sugar. So Mia decided to",
+    "train_overlap": 1.0,
+    "valid_overlap": 0.9938461538461538
+  },
+  {
+    "completion": "A small dog saw his reflection in the pond and thought it looked fun. He wanted to go for a swim in the water, but his mom said no. She said it was too dangerous and she had to stay in the water.\nThe little dog was sad, but he knew he had to listen to his mom. He ran to the water and jumped in. He",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "A small dog saw his reflection in the pond and thought",
+    "train_overlap": 1.0,
+    "valid_overlap": 1.0
+  },
+  {
+    "completion": "Leo and Emma built a sand castle by the sea. Then a big wave came and splashed the sand castle. The wave was very strong and the sand castle was very strong.\nLeo and Emma were very happy. They ran around the beach and laughed. They had a lot of fun.\nBut then, the wave was too strong. The wave was too strong. The wave was too strong",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "Leo and Emma built a sand castle by the sea. Then a big wave came and",
+    "train_overlap": 1.0,
+    "valid_overlap": 0.9908536585365854
+  },
+  {
+    "completion": "There was a bird with a hurt wing. A kind girl saw it and decided to help. She picked up the bird and put it in a nest. She was very careful to make sure the bird was safe.\nThe bird was very happy and thanked the girl. She flew around the nest and sang a beautiful song. The bird was so happy to be able to fly again.\nThe girl was",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "There was a bird with a hurt wing. A kind girl saw it and decided to",
+    "train_overlap": 1.0,
+    "valid_overlap": 1.0
+  },
+  {
+    "completion": "Tim lost his toy boat in the stream. He ran along the water and shouted, \"<unk>, feeling the water will fall in!\"\nBut then, he saw a big dog. The dog was barking and growling at Tim. Tim was scared and ran away. He hid behind a tree and hoped the dog would not find him.\nBut the dog was not happy. It was scared and",
+    "max_overlap": 0.9709677419354839,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "Tim lost his toy boat in the stream. He ran along the water and shouted",
+    "train_overlap": 0.9709677419354839,
+    "valid_overlap": 0.967741935483871
+  },
+  {
+    "completion": "On a rainy day, a little duck knocked on the window and asked for a snack. The duck said, \"Yes, I can have some yummy snacks!\"\nThe duck was so happy and said, \"Thank you, little duck!\"\nThe duck smiled and said, \"You're welcome, little duck!\"\nThe duck and the duck were best friends and they played together every day",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "On a rainy day, a little duck knocked on the window and asked for",
+    "train_overlap": 1.0,
+    "valid_overlap": 0.9935691318327974
+  },
+  {
+    "completion": "A fox found a basket of apples, but the basket was too heavy. So the fox decided to go on an adventure. He hopped on the grass and hopped around the forest. He was having so much fun!\nBut then he heard a loud noise. He looked around and saw a big, scary wolf. The fox was scared and he quickly hopped away. The wolf was so scared that he ran away",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "A fox found a basket of apples, but the basket was too heavy. So the fox",
+    "train_overlap": 1.0,
+    "valid_overlap": 1.0
+  },
+  {
+    "completion": "Sally opened the old box in the attic and found a note that said \"<unk>\". She was so excited that she ran to the attic to find the note. She opened the door and found a note. It said \"<unk>\". She was so happy that she ran to the attic and opened the door. Inside was a big, shiny note. She was so excited and she ran to the",
+    "max_overlap": 0.9371069182389937,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "Sally opened the old box in the attic and found a note that said",
+    "train_overlap": 0.9371069182389937,
+    "valid_overlap": 0.9371069182389937
+  },
+  {
+    "completion": "A boy planted a seed in the garden. Every morning he came outside to see if it had a seed. He said, \"I will plant it in the garden!\"\nThe boy was very excited. He ran to the garden and picked up the seed. He watered it every day and watched it grow.\nOne day, the boy was feeling very tired. He looked around and saw a big tree. He",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "A boy planted a seed in the garden. Every morning he came outside to see if it had",
+    "train_overlap": 1.0,
+    "valid_overlap": 1.0
+  },
+  {
+    "completion": "Poppy found a key under the rug. She did not know what it opened, so she tried it on. It was a shiny key, but it was not a key. She was sad, but then she had an idea. She decided to use the key to unlock the rug. She put the key in the lock and turned it. It opened, and inside was a beautiful, shiny key. She was so happy and",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "Poppy found a key under the rug. She did not know what it opened, so she tried it on",
+    "train_overlap": 1.0,
+    "valid_overlap": 1.0
+  },
+  {
+    "completion": "A little fish wanted to see the world above the water. One day it jumped and saw the sun shining brightly. The little fish was so happy to see the sun. It swam around and around, until it was far away from the sun.\nThe little fish was so excited to see the sun. It swam around and around, until it was far away from the sun. The sun was so",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "A little fish wanted to see the world above the water. One day it jumped and saw",
+    "train_overlap": 1.0,
+    "valid_overlap": 1.0
+  },
+  {
+    "completion": "Max had two mittens, but he lost one in the snow. He looked near the tree and found a big, red mitten. He was so happy! He ran to the mitten and picked it up. He put it in his pocket and ran back home.\nWhen he got home, he showed his mitten to his mom. She was so proud of him. She gave him a big hug and said",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "Max had two mittens, but he lost one in the snow. He looked near the tree and found",
+    "train_overlap": 1.0,
+    "valid_overlap": 1.0
+  },
+  {
+    "completion": "Rose heard thunder outside and hugged her teddy. Her dad told her that thunder was a big storm and she was scared.\n\"Don't worry, I'll protect you,\" said her dad.\n\"Okay,\" said her dad. \"Let's go to the park and have some fun.\"\nSo they went to the park and the sun was shining brightly. They played tag and ran around.",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "Rose heard thunder outside and hugged her teddy. Her dad told her that thunder was",
+    "train_overlap": 1.0,
+    "valid_overlap": 1.0
+  },
+  {
+    "completion": "There was a small train that wanted to climb the hill, but the hill was too small. The train was very sad and wanted to go back home.\nOne day, the train saw a little girl crying. She asked her mom, \"Why are you crying?\"\nHer mom said, \"I lost my toy. I can't find it anywhere.\"\nThe little girl felt very sad.",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "There was a small train that wanted to climb the hill, but the hill was",
+    "train_overlap": 1.0,
+    "valid_overlap": 1.0
+  },
+  {
+    "completion": "A rabbit found a carrot bigger than its head. The rabbit called its friend and said, \"Let's go for a walk!\"\nThe rabbit was so excited and said, \"Yes! Let's go!\"\nThey ran and ran until they reached a big field. The rabbit was so happy to be there.\nThe rabbit said, \"Let's go for a walk!\"\nThe rabbit said,",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "A rabbit found a carrot bigger than its head. The rabbit called its friend and said",
+    "train_overlap": 1.0,
+    "valid_overlap": 1.0
+  },
+  {
+    "completion": "Molly had a secret picture in her pocket. She showed it to her brother and he said it was a special picture. He said it was a special picture and he was very proud of it.\nMolly was so happy that she hugged her brother. She hugged him and said, \"Thank you for the picture!\"\nMolly's mom smiled and said, \"You're welcome, Molly. I'm",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "Molly had a secret picture in her pocket. She showed it to her brother and he said",
+    "train_overlap": 1.0,
+    "valid_overlap": 0.9969135802469136
+  },
+  {
+    "completion": "A little bear could not sleep because the moon was shining in his room. So he went to the moon and looked up at the moon. He saw a big, bright star in the sky. He was so excited and he wanted to touch it. He ran to the moon and tried to touch it. But it was too high and he couldn't reach it. He was so sad. He looked around",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "A little bear could not sleep because the moon was shining in his room. So he",
+    "train_overlap": 1.0,
+    "valid_overlap": 1.0
+  },
+  {
+    "completion": "When the door creaked open, the children saw not a monster, but they were all very friendly. They were all very friendly and wanted to play with them.\nThe children were very friendly and they all wanted to play with them. They ran around and laughed and had lots of fun.\nBut then the children got bored of playing. They wanted to play with the monster, but they",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "When the door creaked open, the children saw not a monster, but",
+    "train_overlap": 1.0,
+    "valid_overlap": 1.0
+  },
+  {
+    "completion": "Owen made a paper boat and set it in a puddle. The boat floated until it was full. Then it jumped out of the puddle and started to make a big mess.\n\"Oh no!\" said Dad. \"We need to clean it up!\"\nOlivia was sad. She didn't want to clean the puddle.\n\"Don't worry,\" said Dad. \"We",
+    "max_overlap": 0.9962825278810409,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "Owen made a paper boat and set it in a puddle. The boat floated until",
+    "train_overlap": 0.9962825278810409,
+    "valid_overlap": 0.9851301115241635
+  },
+  {
+    "completion": "A bee got lost in the house. Grandma opened the window and told the bee to come out. The bee was scared and ran away.\nGrandma was sad. She said, \"Don't worry, bee. I'll help you find your way back home.\"\nThe bee was so happy. She followed Grandma's instructions. She looked around the house and saw a big tree. She",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "A bee got lost in the house. Grandma opened the window and told the bee",
+    "train_overlap": 1.0,
+    "valid_overlap": 0.9902912621359223
+  },
+  {
+    "completion": "Jenny had a blue balloon. She held it tight, but the wind was too strong. She tried to pull it, but it was too heavy. She tried again and again, but it just wouldn't move.\nThen she had an idea. She ran to the kitchen and got a big bowl of water. She put the bowl in the sink and turned it on. She was so",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "Jenny had a blue balloon. She held it tight, but the wind",
+    "train_overlap": 1.0,
+    "valid_overlap": 1.0
+  },
+  {
+    "completion": "Two friends found one red apple on the path. They both wanted it, so they decided to go on an adventure.\nThey walked and walked until they came to a big, beautiful garden. The flowers were so pretty and the sun was shining.\nThe friends were so excited. They ran around and laughed as they looked at the flowers and the trees.\nAfter a while, they stopped to take a break",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "Two friends found one red apple on the path. They both wanted it, so they decided to",
+    "train_overlap": 1.0,
+    "valid_overlap": 1.0
+  },
+  {
+    "completion": "A frog sat on a log and sang every night. One night, someone sang back to his home. He was so excited to see what was happening. He hopped around the log and looked around. He saw a big, green frog. The frog was so big and so big. He was so happy to see the frog. He hopped around and around the log. He was so happy to be with",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "A frog sat on a log and sang every night. One night, someone sang back",
+    "train_overlap": 1.0,
+    "valid_overlap": 1.0
+  },
+  {
+    "completion": "The snowman smiled at the children because they gave him a big, fluffy bone. He was so happy and he ran around the yard, feeling the warm sun on his face.\nThe children were having a lot of fun, but then the children started to feel a bit scared. They didn't know what to do.\nThe children saw the children and they were scared",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "The snowman smiled at the children because they gave him",
+    "train_overlap": 1.0,
+    "valid_overlap": 0.99375
+  },
+  {
+    "completion": "A kitten climbed the curtain and could not get down. The family tried to help by being careful, but the kitten was too small. The kitten was too small to reach the curtain.\nThe kitten was sad. The kitten was sad. The kitten was so sad.\nBut then, the kitten had an idea. He decided to try and get the kitten. He took the kitten to the park and",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "A kitten climbed the curtain and could not get down. The family tried to help by",
+    "train_overlap": 1.0,
+    "valid_overlap": 0.9940652818991098
+  },
+  {
+    "completion": "One morning the sun did not come out. The children looked outside and saw a big, bright sun. The sun was shining and the birds were singing.\nThe children were very excited. They wanted to go outside and play. They ran outside and ran around.\nThe sun was shining and the birds were singing. They were so happy.\nThe children ran and ran around. They laughed",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "One morning the sun did not come out. The children looked outside and saw",
+    "train_overlap": 1.0,
+    "valid_overlap": 1.0
+  },
+  {
+    "completion": "A girl drew a door on the wall with chalk. To her surprise, the door opened. Inside was a big, soft bed. She was so excited. She ran to the bed and opened the door. She was so happy to see the bed. She was so happy to have a new bed. She closed the door and went to sleep.\n<|endoftext|> day, the girl woke up feeling refreshed.",
+    "max_overlap": 0.984472049689441,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "A girl drew a door on the wall with chalk. To her surprise, the door",
+    "train_overlap": 0.984472049689441,
+    "valid_overlap": 0.9782608695652174
+  },
+  {
+    "completion": "Noah found a shell at the beach. When he held it to his ear, he heard a loud noise. He looked around and saw a big, scary monster. The monster was very big and scary. He was so scared that he started to cry.\nThen, he heard a voice. It was a little girl. She was only three years old. She was very scared and she ran away. She",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "Noah found a shell at the beach. When he held it to his ear, he heard",
+    "train_overlap": 1.0,
+    "valid_overlap": 0.99375
+  },
+  {
+    "completion": "The baker dropped flour on the floor, and soon there were tiny footprints leading to a big, messy room. The baker was very sad and started to cry.\n\"What's wrong, baker?\" asked the baker.\n\"I'm so sorry, I didn't mean to,\" said the baker.\n\"Don't worry,\" said the baker. \"I'll help you. I'll",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "The baker dropped flour on the floor, and soon there were tiny footprints leading",
+    "train_overlap": 1.0,
+    "valid_overlap": 0.9787985865724381
+  },
+  {
+    "completion": "A little owl was afraid to fly, but its mother showed it how to fly. The owl was so happy to be flying!\nThe owl was so excited to be flying in the sky. It flew up high and around, higher and higher. The owl was so happy to be flying!\nThe owl flew high in the sky and landed on the ground. It was so happy to be",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "A little owl was afraid to fly, but its mother showed it how to",
+    "train_overlap": 1.0,
+    "valid_overlap": 1.0
+  },
+  {
+    "completion": "When the cake disappeared from the table, everyone blamed the dog until they saw the cake. It was a big, yummy cake with lots of frosting and sprinkles. Everyone was so happy to see the cake.\nThe cake was so delicious that everyone wanted to eat it. They all took a bite and it was so delicious! They all laughed and ate the cake.\nThe cake",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "When the cake disappeared from the table, everyone blamed the dog until they saw",
+    "train_overlap": 1.0,
+    "valid_overlap": 1.0
+  },
+  {
+    "completion": "The king in the story was not mean at all. He just wanted someone to help him. He was very sad. He had no one to help him.\nOne day, he saw a little girl. She was crying. She had a big smile on her face. She asked the king if she could help.\nThe king said, \"Yes, I can help you. I can help you.\"",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "The king in the story was not mean at all. He just wanted someone to help him",
+    "train_overlap": 1.0,
+    "valid_overlap": 0.9965397923875432
+  },
+  {
+    "completion": "A child built a tower of blocks so tall that it almost touched the sky. The blocks were so tall and the child was so proud of it.\nThe child wanted to show the blocks to everyone. So, the child went to the tower and started to build. The blocks were so big that the child could not stop.\nThe child was so proud of the tower. It",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "A child built a tower of blocks so tall that it almost touched",
+    "train_overlap": 1.0,
+    "valid_overlap": 0.9968847352024922
+  },
+  {
+    "completion": "Ella wore her rain boots on a sunny day because she hoped to find a new home for her family. She was so excited to go out and explore the world.\nWhen she arrived at the park, she saw a big tree with lots of leaves. She wanted to climb the tree, but it was too high. She tried to climb it, but it was too high.\nThen",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "Ella wore her rain boots on a sunny day because she hoped to find",
+    "train_overlap": 1.0,
+    "valid_overlap": 1.0
+  },
+  {
+    "completion": "At the park, a small robot asked the children how to play. The children said they were going to have a party. The robot was very excited.\nThe children all gathered around the robot and started to play. They played games and ate yummy food. The children were having so much fun.\nAfter a while, the children got tired. They decided to go home.",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "At the park, a small robot asked the children how to play",
+    "train_overlap": 1.0,
+    "valid_overlap": 0.9940476190476191
+  },
+  {
+    "completion": "A mouse lived inside the piano and came out only when it heard a loud noise coming from the other side of the room. The mouse was scared and ran away.\nThe mouse was very scared and started to cry. He wanted to go back home but he couldn't. He was so scared that he started to cry.\nJust then, a friendly mouse came out of the room",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "A mouse lived inside the piano and came out only when it heard",
+    "train_overlap": 1.0,
+    "valid_overlap": 1.0
+  },
+  {
+    "completion": "The magic crayon could draw real things, but only if the drawing was happy.\nOne day, a little girl named Lily went to the park with her mom. She saw a big tree with lots of leaves and branches. She wanted to climb the tree, but her mom said no.\nLily was sad, but she knew she had to listen to her mom. She went to",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "The magic crayon could draw real things, but only if the drawing was",
+    "train_overlap": 1.0,
+    "valid_overlap": 0.9902597402597403
+  },
+  {
+    "completion": "Harry found one sock under the bed and the other sock inside was a big, red car. He was so excited to go on an adventure. He ran to the car and drove to the car.\nWhen he got there, he saw a big, red car. He was so happy and excited. He ran to the car and started to drive.\nThe car drove for",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "Harry found one sock under the bed and the other sock inside",
+    "train_overlap": 1.0,
+    "valid_overlap": 0.9964912280701754
+  },
+  {
+    "completion": "A turtle won the race not because it was fast, but because it kept running. The turtle was so fast that it ran faster and faster. The turtle was so fast that it almost touched the ground.\nThe turtle was so fast that it ran faster and faster. It was so fast that it almost touched the ground. The turtle was so fast that it almost touched the ground.\nThe",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "A turtle won the race not because it was fast, but because it kept",
+    "train_overlap": 1.0,
+    "valid_overlap": 0.9971264367816092
+  },
+  {
+    "completion": "When the stars came out, the little girl whispered a wish for a new friend. She was so excited to go to the park and play with her friends.\nThe little girl and her friends were all so happy to be together. They ran around and laughed and laughed.\nThe little girl was so happy to have a friend. She was so glad that she had a friend to",
+    "max_overlap": 1.0,
+    "model_size": "medium",
+    "parameter_count": 9772168,
+    "prompt": "When the stars came out, the little girl whispered a wish for",
+    "train_overlap": 1.0,
+    "valid_overlap": 1.0
+  }
+]

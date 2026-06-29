@@ -1,0 +1,21 @@
+name: chatbot
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - libblas=*=*openblas
+  - tokenizers
+  - transformers
+  - matplotlib
+  - pyarrow
+  - openai
+  - pip:
+      - --index-url https://download.pytorch.org/whl/cu128
+      - torch==2.7.0
+      - torchvision==0.22.0
+      - torchaudio==2.7.0
